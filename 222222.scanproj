@@ -1,0 +1,18 @@
+
+
+$$$ First time saved variables $$$
+int	project_type	2
+float	markers_min_distance	10.000000
+float	markers_size	5.000000
+int	preview_simplification_number	0
+int	textures	0
+int	project_version	1
+int	project_simplification_percent	100
+int	project_metrology_only	0
+float	markers_size_amplifier	1.000000
+int	markers_color	0
+int	scene_flat_light_model	0
+int	scene_boundary	0
+int	scene_fill_mode	6914
+string	project_path	"222222_folder"
+string	metrology_measurer_name	""
